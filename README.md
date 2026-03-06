@@ -1,8 +1,30 @@
 # 🤖 OpenClaw & Il Documento dell'Anima (SOUL.md)
 
-![Prima Chat ](assets/primaCoversazione.png)
+
+<a href='https://youtu.be/lESidAbdY3Y'>
+<img alt="Thumbnail YT" src='assets/thumbnailOpenclawYT.png'></img>
+🎥 Video completo su YT
+</a>
+
+<a href="https://ko-fi.com/J3J81Q78LE" target="_blank">
+  <img
+    height="36"
+    style="border:0px;height:36px;"
+    src="https://storage.ko-fi.com/cdn/kofi3.png?v=6"
+    border="0"
+    alt="Buy Me a Coffee at ko-fi.com"
+  />
+</a>
+
+<br>
+
+
+
+
 
 > **Cosa succede quando infondi un’anima in un’intelligenza artificiale?**
+![Prima Chat ](assets/primaCoversazione.png)
+
 
 Benvenuti in questa repository! Quella che trovate qui è il risultato del mio esperimento di **assegnare un'anima al nostro assistente AI e vedere cosa succede.**
 
@@ -49,6 +71,3 @@ In questo esperimento vivremo la stessa esperienza in prima persona:
 1. 🧠 **Assegneremo un'anima iniziale** al nostro assistente AI modificando il file `SOUL.md`.
 2. 🗣️ **Converseremo con lui/lei**, definendone anche il genere e i tratti.
 3. 🧬 **Libero arbitrio:** Daremo all'assistente la possibilità di *modificarsi l'anima a piacimento* basandosi sulle nostre chiacchierate.
-
-![Peter Steinberger](assets/peterOpenclaw.png)
-
