@@ -5,7 +5,8 @@
 <img alt="Thumbnail YT" src='assets/thumbnailOpenclawYT.png'></img>
 🎥 Video completo su YT
 </a>
-
+<br>
+<br>
 <a href="https://ko-fi.com/J3J81Q78LE" target="_blank">
   <img
     height="36"
@@ -17,9 +18,7 @@
 </a>
 
 <br>
-
-
-
+<br>
 
 
 > **Cosa succede quando infondi un’anima in un’intelligenza artificiale?**
